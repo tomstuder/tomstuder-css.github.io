@@ -5,7 +5,11 @@ body {
   text-align: center;
   width: 90%;
   margin: 0 auto;
-  background-color: #e6e6e6; }
+  background-color: #e6e6e6;
+  padding: 2em; }
+  .container h1 {
+    margin: 0px;
+    padding: 1em 0em; }
 
 footer p {
   text-align: center;
