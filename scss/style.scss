@@ -8,13 +8,13 @@ body {
   text-align: center;
   width: 90%;
   margin: 0 auto;
-  background-color: lighten($black, .2);
+  background-color: lighten($black, 20%);
 }
 
 footer {
   p {
     text-align: center;
     font-size: .6em;
-    color: lighten($black,.5);
+    color: lighten($black, 50%);
   }
 }
