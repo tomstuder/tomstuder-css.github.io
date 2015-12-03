@@ -1,9 +1,11 @@
 $black: #000;
 $yellow: #FFCC66;
 
-
+body {
+  background-color: #ffffff;
+}
 .container {
-  width: 90%;
+  width: 70%;
   margin: 0 auto;
   background-color: $yellow;
 }
