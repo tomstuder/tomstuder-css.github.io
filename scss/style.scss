@@ -5,14 +5,16 @@ body {
   background-color: #ffffff;
 }
 .container {
-  width: 70%;
+  text-align: center;
+  width: 90%;
   margin: 0 auto;
-  background-color: $yellow;
+  background-color: lighten($black, .6);
 }
 
 footer {
   p {
     text-align: center;
+    font-size: .6em;
     color: lighten($black,.5);
   }
 }

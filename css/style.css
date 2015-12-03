@@ -2,12 +2,14 @@ body {
   background-color: #ffffff; }
 
 .container {
-  width: 70%;
+  text-align: center;
+  width: 90%;
   margin: 0 auto;
-  background-color: #FFCC66; }
+  background-color: #020202; }
 
 footer p {
   text-align: center;
+  font-size: .6em;
   color: #010101; }
 
 /*# sourceMappingURL=style.css.map */
