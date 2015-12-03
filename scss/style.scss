@@ -1,0 +1,16 @@
+$black: #000;
+$yellow: #FFCC66;
+
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+  background-color: $yellow;
+}
+
+footer {
+  p {
+    text-align: center;
+    color: lighten($black,.5);
+  }
+}
