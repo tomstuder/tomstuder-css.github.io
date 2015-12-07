@@ -8,6 +8,20 @@
   .container h1 {
     margin: 0px;
     padding: 1em 0em; }
+  .container .case-block {
+    width: 30%;
+    display: inline-block;
+    background-color: #cccccc;
+    height: 300px; }
+
+section a {
+  text-decoration: none;
+  font-size: 2em;
+  padding: 5px 20px;
+  color: #fff;
+  background-color: #d9d9d9; }
+  section a:hover {
+    color: gray; }
 
 footer p {
   text-align: center;
